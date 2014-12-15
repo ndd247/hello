@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <unistd.h>
+#include <iostream>
+using namespace std;
+
+#include <x86intrin.h>
+
+int main()
+{
+	///
+	// SUBJECT: 
+	///
+
+	return 0;
+}
